@@ -1,0 +1,21 @@
+{
+  "name": "conectando-a-replicaset",
+  "version": "1.0.0",
+  "description": "app en js para conectarme a un servidor secundario de un conjunto de replicas de mongodb server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "replicaSet",
+    "server"
+  ],
+  "author": "hossein",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0"
+  }
+}
